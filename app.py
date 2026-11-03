@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 from supabase import create_client
 
+st.write("App gestartet")
+st.stop()
 # --------------------------------------------------
 # Seiteneinstellungen
 # --------------------------------------------------
